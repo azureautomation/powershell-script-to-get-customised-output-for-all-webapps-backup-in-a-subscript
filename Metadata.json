@@ -1,0 +1,20 @@
+{
+    "Author": "RuchiDubey",
+    "ContentSize": 2206,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-get-customised-output-for-all-webapps-backup-in-a-subscript/master/Get-AllWebAppbackup.ps1",
+    "DownloadCount": 597,
+    "Id": "PowerShell-Script-to-Get-1505f631",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 533,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-7-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Powershell Script to give customized output for backup of all Webapp under a particular subscription. The code will generate an output file in csv format which contains the required webapp name, Resource Group name, the oldest backup configured for the webapp and the latest back",
+    "Title": "PowerShell Script to Get Customised output for all Webapps Backup in a subscript",
+    "UpdatedDate": "2017-7-27T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-get-customised-output-for-all-webapps-backup-in-a-subscript",
+    "UserTags": "website, Website Monitoring, Windows Azure PowerShell"
+}
